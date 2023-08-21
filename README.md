@@ -9,3 +9,5 @@ Launch:
 * python main.py -h for help, 
 * python main.py -c CODE,
 * python main.py -ctr COUNTRY
+
+Currency codes and country names listed in help.
