@@ -3,6 +3,6 @@
 Simple app providing average currency exchange rates written in Python.
 
 
-Python 3.10.9
+Python 3.10.12
 
 Launch: python main.py -h for help, 
